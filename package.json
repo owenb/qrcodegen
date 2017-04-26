@@ -1,0 +1,15 @@
+{
+  "name": "qrcodegen",
+  "version": "1.0.0",
+  "description": "Turns Public Keys into QR codes when posted to the Status 'find-friends' channel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^1.0.2"
+  }
+}
