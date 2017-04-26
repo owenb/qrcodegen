@@ -6,7 +6,7 @@ A little Slackbot that scans messages in "find-friends" for public keys and turn
 
 Create a bot at https://my.slack.com/services/new/bot and obtain a token.
 
-Replace `token` with yours.
+Replace `token` with yours in `index.js`
 
 Someone must manually invite the bot into the 'find-friends' channel:
 
